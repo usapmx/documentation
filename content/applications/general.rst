@@ -16,3 +16,4 @@ General
     general/in_app_purchase
     general/developer_mode
     general/mobile
+    general/images
